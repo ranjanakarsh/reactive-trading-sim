@@ -1,0 +1,5 @@
+(tests
+ (names test_order_book test_agents test_integration)
+ (modules test_order_book test_agents test_integration)
+ (flags (:standard -w -33))
+ (libraries reactive_trading_sim qcheck qcheck-core qcheck-alcotest alcotest))

@@ -1,0 +1,56 @@
+# OCaml
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+
+# Dune
+_build/
+*.install
+*.merlin
+
+# Binary output
+*.exe
+*.out
+
+# Generated files
+.*.aux
+.*.d
+*.cmj
+*.lprof
+
+# JSON output
+*.json
+
+# Editor temporary files
+*~
+\#*\#
+.\#*
+.*.swp
+.*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+log/
+
+# Local environment configurations
+.env
+.env.local
+
+# OPAM switch local configuration
+_opam/
+
+# Coverage reports
+_coverage/
+
+# Configuration files that you guys might need
+!simulation.json
