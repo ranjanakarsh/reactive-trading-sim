@@ -3,7 +3,6 @@
 A purely functional, immutable trading simulator implemented in OCaml. This project models a limit order book, trading agents, and risk metrics using functional programming techniques.
 
 [![OCaml](https://img.shields.io/badge/OCaml-4.12%2B-orange?logo=ocaml)](https://ocaml.org/)  
-[![Build](https://github.com/yourusername/trading-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/trading-simulator/actions)  
 [![Tests](https://img.shields.io/badge/tests-passing-success?logo=github)](./test)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 ![Property Testing](https://img.shields.io/badge/property--testing-qcheck-purple)  
